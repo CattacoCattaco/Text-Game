@@ -1,0 +1,8 @@
+Dying from falling in a pit:
+  Step 1: Throw the green berry into the well
+  Step 2: Pick up glass shards and survive 
+  Step 3: Pick up glass shards again and use cheat_codes.txt
+  Step 4: Try again
+  Step 5: Fall in a pit(again)
+
+The real story:
